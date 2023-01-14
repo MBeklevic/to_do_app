@@ -9,7 +9,6 @@
 
 ## Features
 - User can add a task to the list via form,
-- User can mark the task as completed by clicking on,
 - User can edit the task by clicking edit button,
 - User can delete the task by clicking delete button.
 
