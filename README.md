@@ -14,7 +14,7 @@
 
 
 ## Libraries
-- React
+- React / React Hooks
 - [uuid](https://www.npmjs.com/package/uuid)
 
 ## About Me
