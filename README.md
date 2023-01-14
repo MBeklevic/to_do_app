@@ -11,10 +11,12 @@
 - User can add a task to the list via form,
 - User can edit the task by clicking edit button,
 - User can delete the task by clicking delete button.
+- Responsive Design
 
 
 ## Libraries
-- React / React Hooks
+- React 
+- React Hooks (useState, useEffect)
 - [uuid](https://www.npmjs.com/package/uuid)
 
 ## About Me
